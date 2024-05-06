@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "Iliya, Berkeley, Shane, Ian"
 format: html
 editor: visual
 embed-resources: true
