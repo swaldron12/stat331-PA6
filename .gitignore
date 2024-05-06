@@ -45,5 +45,7 @@ docs/
 # translation temp files
 po/*~
 
+*.Rproj
+
 # RStudio Connect folder
 rsconnect/
