@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: Berkeley Reynolds, Iliya Dehsarvi, Shane Waldron, Ian Loo
 format: html
 editor: visual
 embed-resources: true
